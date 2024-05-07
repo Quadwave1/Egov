@@ -24,4 +24,4 @@ python-docx
 flask_mail
 azure-storage-blob
 PyPDF2
-shutil
+
